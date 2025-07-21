@@ -17,5 +17,12 @@
 <hr>
 
 Learn more: <br>
-<a src="https://react.dev/learn/reacting-to-input-with-state"> React Doc Article </a>
-<a src="https://reactive-accelarator.vercel.app/reactive-accelarator/React-js/module-3/declaretive-imperative"> Lws Doc Article </a>
+<a href="https://react.dev/learn/reacting-to-input-with-state"> React Doc Article </a> <br>
+<a href="https://reactive-accelarator.vercel.app/reactive-accelarator/React-js/module-3/declaretive-imperative"> Lws Doc Article </a>
+
+When developing a component:
+Identify all its visual states.
+Determine the human and computer triggers for state changes.
+Model the state with useState.
+Remove non-essential state to avoid bugs and paradoxes.
+Connect the event handlers to set state.
